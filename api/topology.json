@@ -1,0 +1,113 @@
+{
+    "links":[
+        {
+            "x1": 150,
+            "y1": 100,
+            "x2": 300,
+            "y2": 150,
+            "stroke" : "red",
+            "strokeWidth": 3,
+            "strokeOpacity": 1,
+            "className": "linkClassFirst"
+        },
+        {
+            "x1": 300,
+            "y1": 150,
+            "x2": 450,
+            "y2": 200,
+            "stroke" : "black",
+            "strokeWidth": 3,
+            "strokeOpacity": 1,
+            "className": "linkClassSecond"
+        },
+        {
+            "x1": 150,
+            "y1": 100,
+            "x2": 250,
+            "y2": 300,
+            "stroke" : "black",
+            "strokeWidth": 10,
+            "strokeOpacity": 1,
+            "className": "linkClassThird"
+        },
+        {
+            "x1": 250,
+            "y1": 300,
+            "x2": 350,
+            "y2": 300,
+            "stroke" : "green",
+            "strokeWidth": 1,
+            "strokeOpacity": 1,
+            "className": "linkClassFourth"
+        },
+        {
+            "x1": 450,
+            "y1": 90,
+            "x2": 450,
+            "y2": 200,
+            "stroke" : "black",
+            "strokeWidth": 3,
+            "strokeOpacity": 0.4,
+            "className": "linkClassFifth"
+        }
+    ],
+    "nodes":[
+        {
+            "x_axis": 150,
+            "y_axis": 100,
+            "radius": 20,
+            "color" : "white"
+        },
+        {
+            "x_axis": 250,
+            "y_axis": 300,
+            "radius": 20,
+            "color" : "white"
+        },
+        {
+            "x_axis": 350,
+            "y_axis": 300,
+            "radius": 20,
+            "color" : "white"
+        },
+        {
+            "x_axis": 450,
+            "y_axis": 200,
+            "radius": 20,
+            "color" : "white"
+        },
+        {
+            "x_axis": 450,
+            "y_axis": 90,
+            "radius": 20,
+            "color" : "white"
+        }
+    ],
+    "labels":[
+        {
+            "name": "label 1",
+            "x": 80,
+            "y": 100
+        },
+        {
+            "name": "label 2",
+            "x": 180,
+            "y": 300
+        },
+        {
+            "name": "label 3",
+            "x": 380,
+            "y": 300
+        },
+        {
+            "name": "label 4",
+            "x": 480,
+            "y": 200
+        },
+        {
+            "name": "label 5",
+            "x": 380,
+            "y": 100
+        }
+    ]
+}

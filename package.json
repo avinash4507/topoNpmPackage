@@ -1,0 +1,27 @@
+{
+  "name": "d3_top_avi",
+  "version": "1.0.0",
+  "description": "contains d3 based node and links with animations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinash4507/topoNpmPackage.git"
+  },
+  "keywords": [
+    "topo",
+    "avinash4507",
+    "d3"
+  ],
+  "author": "Avinash Singh <avinash4507@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinash4507/topoNpmPackage/issues"
+  },
+  "homepage": "https://github.com/avinash4507/topoNpmPackage#readme",
+  "dependencies": {
+    "d3": "^4.2.8"
+  }
+}
